@@ -30,10 +30,10 @@ Les Identifiants sont les Suivants :
 
 # Compte Meta WS 
 
-Username : Worquechop
+Username : Worquechop RealiteeVirtuelle
 
-Email : 
+Email : eliott.simunic@brassart.fr
 
-Mot de passe : 
+Mot de passe : Xvikgkr-34
 
 
